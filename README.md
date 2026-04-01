@@ -112,6 +112,8 @@ WordPress успешно установлен и подключен к базе 
 Контент отображается в виде **трёхколоночного блока**.
 
 <img width="2558" height="1344" alt="Снимок экрана 2026-04-01 182643" src="https://github.com/user-attachments/assets/60b37d7b-a231-4c51-9aea-51a3af56f292" />
+<img width="2559" height="1341" alt="image" src="https://github.com/user-attachments/assets/14376019-9188-4b6a-8cef-a51495c75728" />
+<img width="1752" height="1258" alt="image" src="https://github.com/user-attachments/assets/22fd9787-b401-4cdf-a57a-e5012e6bd555" />
 
 
 ---
